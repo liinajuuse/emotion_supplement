@@ -1,7 +1,3 @@
-# emotion_supplement
-
----
-
 # 🤝 Collaboration Invitation
 
 If you're interested in collaborating on the analysis of **facial emotion expressions** or other **psychophysiological variables** (e.g., EEG, SCR), feel free to get in touch. I'm open to interdisciplinary partnerships and exploratory analysis projects.
@@ -56,7 +52,7 @@ We compare recognition accuracy across six basic emotions:
 
 ## 📎 Downloads & Resources
 
-- 📄 [Full Poster PDF](poster.pdf)
+- 📄 [Full Poster PDF](Juuse_ICON25_poster.pdf)
 
 ---
  
