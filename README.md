@@ -54,6 +54,12 @@ We compare recognition accuracy across six basic emotions:
 
 ---
 
+## 📎 Downloads & Resources
+
+- 📄 [Full Poster PDF](poster.pdf)
+
+---
+ 
 ## 📧 Contact
 
 **Liina Juuse**  
