@@ -54,15 +54,8 @@ We compare recognition accuracy across six basic emotions:
 
 - 📄 [Full Poster PDF](Juuse_ESCAN26_poster.pdf)
 
+
 ---
- 
-## 📧 Contact
-
-**Liina Juuse**  
-📧 liina.juuse@ut.ee  
-🏫 Institute of Psychology, University of Tartu
-
-
 
 
 ## Research Context: Dissertation Papers
@@ -120,4 +113,13 @@ In particular, the poster asks whether automated facial emotion recognition syst
 ## Keywords
 
 Emotion recognition; facial expressions; event-related potentials; EEG; skin conductance response; SCR; electrodermal activity; habituation; facial expression suppression; facial expression exaggeration; FaceReader; machine emotion recognition; psychophysiology; affective computing.
+
+
+---
+ 
+## 📧 Contact
+
+**Liina Juuse**  
+📧 liina.juuse@ut.ee  
+🏫 Institute of Psychology, University of Tartu
 
