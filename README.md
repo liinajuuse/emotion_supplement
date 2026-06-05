@@ -104,7 +104,7 @@ These findings suggest that SCR is not only stimulus-driven, but is also shaped 
 
 ---
 
-## Connection to the Current Poster
+## Connection to the current poster
 
 The current poster builds on this broader line of work by focusing on **emotion recognition from deliberately produced or modulated facial expressions**. While the published ERP and SCR studies examine how humans process emotional faces, words, and affective images, the poster extends the question to the comparison between **human observers** and **machine-based emotion recognition systems**.
 
