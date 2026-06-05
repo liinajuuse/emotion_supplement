@@ -1,4 +1,4 @@
-# 🤝 Collaboration Invitation
+# Collaboration Invitation
 
 If you're interested in collaborating on the analysis of **facial emotion expressions** or other **psychophysiological variables** (e.g., EEG, SCR), feel free to get in touch. I'm open to interdisciplinary partnerships and exploratory analysis projects.
 
