@@ -1,18 +1,18 @@
-# Collaboration Invitation
+# Collaboration invitation
 
 If you're interested in collaborating on the analysis of **facial emotion expressions** or other **psychophysiological variables** (e.g., EEG, SCR), feel free to get in touch. I'm open to interdisciplinary partnerships and exploratory analysis projects.
 
 📧 Contact: **liina.juuse@ut.ee**
 
 
-## Supplementary Information
+## Supplementary information
 
-## Comparing Human and Machine Emotion Recognition in Mimicked and Suppressed Facial Expression Conditions  
+## Comparing human and machine emotion recognition in mimicked and euppressed facial expression conditions  
 **Liina Juuse, Kristian Pentus, Kairi Kreegipuu, Jüri Allik**
 
 ---
 
-## Extended Summary
+## Extended summary
 
 This project investigates how well **human observers** and a **machine learning-based emotion recognition system (FaceReader)** perform under conditions where emotional expressions are **mimicked** or **suppressed** — i.e., not spontaneously expressed. These cases represent more **ambiguous, strategically modulated facial cues**, which are common in real-world interactions but rarely tested in ML contexts.
 
@@ -21,7 +21,7 @@ We compare recognition accuracy across six basic emotions:
 
 ---
 
-## Key Results
+## Key results
 
 - Human observers achieved an overall accuracy of **54.4%**, performing best on **happiness (82.7%)** and worst on **fear (19.2%)**.
 - FaceReader reached **37.4%** overall accuracy, with high performance for **happiness (96.9%)** but poor detection of **fear (4%)** and **disgust (11.3%)**.
@@ -34,7 +34,7 @@ We compare recognition accuracy across six basic emotions:
 
 ---
 
-## Methods Overview
+## Methods
 
 - **Sample 1**: Facial expression data recorded under instructed mimic/suppression tasks. Multimodal data includes video, EEG, SCR, and self-reports.
 - **Sample 2**: Independent observers (**N = 223**) rated the expressions on 7-label categorical scales.
@@ -42,7 +42,7 @@ We compare recognition accuracy across six basic emotions:
 
 ---
 
-## Future Directions
+## Future directions
 
 - Extend comparisons to **deep learning models** (e.g., DeepFace, AffectNet-based CNNs) to test whether they can better handle **subtle or ambiguous expressions**.
 - Analyze **individual differences** in emotion recognition (e.g., personality, empathy) and their alignment with ML outputs.
@@ -50,7 +50,7 @@ We compare recognition accuracy across six basic emotions:
 
 ---
 
-## 📎 Downloads & Resources
+## Resources
 
 - 📄 [Full Poster PDF](Juuse_ESCAN26_poster.pdf)
 
@@ -58,7 +58,7 @@ We compare recognition accuracy across six basic emotions:
 ---
 
 
-## Research Context: Dissertation Papers
+## Research context: Dissertation papers
 
 This poster is part of a broader research programme on how emotions are processed, expressed, and recognized across facial, verbal, neural, physiological, and computational levels. The work combines human emotion perception, psychophysiology, and machine-based facial emotion recognition.
 
